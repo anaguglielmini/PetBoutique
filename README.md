@@ -8,8 +8,9 @@ A proposta desse projeto é criar um site para um Pet Shop utilizando as linguag
 
 **Conhecendo o projeto**
 
-O projeto que será criado tem como diferencial:
+O projeto tem como diferencial:
 
 - O uso de imagens para preencher o fundo dos elementos;
 - A utilização de efeitos de sombra para destacar elementos;
-- A utilização do recurso conversa com um clique do WhatsApp.
+- A utilização do recurso conversa com um clique do WhatsApp;
+- A utilização do rodapé em projetos.
